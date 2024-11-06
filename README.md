@@ -2,6 +2,8 @@
 
 兔小巢官方的数据导出按钮不支持导出回复数据，于是只好自己写一个，[点此使用](https://txc.ftqq.com?fr=github)
 
+> 如果你在寻找兔小巢的开源替代，可以看下支持微信登录的[WeAnswer方案](https://github.com/easychen/WeAnswer)。
+
 ## 截图
 
 ![image](https://github.com/user-attachments/assets/a3382add-75b4-4081-8dce-2652411f16b1)
